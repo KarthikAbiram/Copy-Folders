@@ -13,8 +13,8 @@
 		<Item Name="SubVIs" Type="Folder">
 			<Item Name="Force Copy.vi" Type="VI" URL="../SubVIs/Force Copy.vi"/>
 		</Item>
+		<Item Name="Copy Folders List.txt" Type="Document" URL="../Copy Folders List.txt"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-		<Item Name="Sample Configuration.txt" Type="Document" URL="../Sample Configuration.txt"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Build Path - File Names and Paths Arrays - path__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/file/file.llb/Build Path - File Names and Paths Arrays - path__ogtk.vi"/>
