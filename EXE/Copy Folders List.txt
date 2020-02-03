@@ -1,0 +1,5 @@
+Source Folder/File	Destination Directory (Source Folder/File will be copied INTO this Directory)
+AppSource\AppBL\HardwareController\TestStand 2019 (64-bit)\Callbacks\Station	C:\Dummy\TestStand
+D:\Delete\New folder	C:\Dummy\One
+D:\Delete\TIPS	C:\Dummy\Three
+D:\Delete\Book1.csv	C:\Dummy\Two\Book1.csv
